@@ -1,3 +1,5 @@
+<p align="center"><img src ="http://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" /></p>
+
 # Open In WebStorm
 
 Batch file that add Webstorm to the Windows context menu
